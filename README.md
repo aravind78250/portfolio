@@ -1,4 +1,4 @@
-# Aravindh Kumar Portfolio
+# AravindhKumar Portfolio
 
 Welcome to my personal portfolio repository! This repository contains all the files for my portfolio website, including my projects, skills, certifications, and contact information.
 
